@@ -26,6 +26,7 @@
       # "cursor"
       # "ghostty"
       # "visual-studio-code"
+      # "wezterm"
       # "zed"
 
       # messaging

@@ -5,6 +5,7 @@
       # dev tools
       curl
       neovim
+      helix
       zellij
       btop
       tree
