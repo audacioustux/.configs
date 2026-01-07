@@ -61,6 +61,7 @@
   environment = {
     systemPath = [
       "/opt/homebrew/bin"
+      "/Applications/Docker.app/Contents/Resources/bin" # docker-credential-desktop
     ];
     pathsToLink = [ "/Applications" ];
   };

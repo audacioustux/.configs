@@ -13,6 +13,7 @@
       gh
       zoxide
       direnv
+      docker-client
 
       # LLM CLIs
       pkgsMaster.opencode
