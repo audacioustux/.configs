@@ -15,6 +15,10 @@
       direnv
       docker-client
 
+      # devops tools
+      awscli2
+      aws-iam-authenticator
+
       # LLM CLIs
       pkgsMaster.opencode
       pkgsMaster.gemini-cli
