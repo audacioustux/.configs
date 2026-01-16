@@ -36,6 +36,7 @@
 
       # other
       # "1password"
+      "1password-cli"
       # "anki"
       # "brave-browser"
       # "obsidian"
