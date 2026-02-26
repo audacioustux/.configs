@@ -15,6 +15,9 @@
 
     # declarative homebrew management
     nix-homebrew.url = "github:zhaofengli/nix-homebrew";
+
+    # probhat keyboard layout for macOS
+    probhat-macos.url = "github:audacioustux/probhat-macos";
   };
 
   outputs =

@@ -11,7 +11,10 @@
     ./settings.nix
     inputs.home-manager.darwinModules.home-manager
     inputs.nix-homebrew.darwinModules.nix-homebrew
+    inputs.probhat-macos.darwinModules.default
   ];
+
+  # programs.probhat.enable = true;
 
   # nix config
   nix = {
