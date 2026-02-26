@@ -129,11 +129,11 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1772118706,
-        "narHash": "sha256-p18MvKV+vgvfQ+F/+nBvOfqF5dQtdvghjRGNGdmFKLE=",
+        "lastModified": 1772118930,
+        "narHash": "sha256-AeMcfRRihze0Y3QIpCvYGJDelG5OV0g5X3pJjyO1B6Q=",
         "owner": "audacioustux",
         "repo": "probhat-macos",
-        "rev": "a78ea7d5260c6505393e4fd34c46050dedc19221",
+        "rev": "b0b326045b862c298105d54396fa485de52c5234",
         "type": "github"
       },
       "original": {
