@@ -7,7 +7,6 @@
     ./gpg.nix
     ./wezterm.nix
     ./helix.nix
-    ./probhat.nix
   ];
 
   home = {

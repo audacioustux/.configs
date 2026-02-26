@@ -14,7 +14,7 @@
     inputs.probhat-macos.darwinModules.default
   ];
 
-  # programs.probhat.enable = true;
+  programs.probhat.enable = true;
 
   # nix config
   nix = {
