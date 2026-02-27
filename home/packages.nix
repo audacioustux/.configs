@@ -26,6 +26,7 @@
 
       # languages runtimes
       uv
+      rustup
       nodejs_22
       bun
 
