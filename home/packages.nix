@@ -11,14 +11,13 @@
       tree
       ripgrep
       gh
-      zoxide
-      direnv
       docker-client
 
       # devops tools
       awscli2
       aws-iam-authenticator
       k9s
+      _1password-cli
 
       # LLM CLIs
       pkgsMaster.opencode

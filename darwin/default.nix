@@ -49,7 +49,7 @@
     extraSpecialArgs = {
       inherit inputs self primaryUser;
       pkgsMaster = import inputs.nixpkgs-master {
-        system = pkgs.system;
+        system = pkgs.stdenv.hostPlatform.system;
         config.allowUnfree = true;
       };
     };
