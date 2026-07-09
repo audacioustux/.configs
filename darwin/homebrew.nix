@@ -21,14 +21,15 @@
       # "hiddenbar"
       # "raycast"
       "betterdisplay"
-      "codex"
+      "orbstack"
+      # "codex"
 
       # dev
       # "cursor"
       # "ghostty"
       # "visual-studio-code"
       # "wezterm"
-      # "zed"
+      "zed"
 
       # messaging
       "discord"
