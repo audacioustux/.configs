@@ -40,6 +40,7 @@
       # "1password"
       "1password-cli"
       "wizcli"
+      "claude-code"
       # "anki"
       # "brave-browser"
       # "obsidian"
@@ -51,9 +52,11 @@
     brews = [
       # "docker"
       # "colima"
+      "yvgude/lean-ctx/lean-ctx"
     ];
     taps = [
       # "nikitabobko/tap"
+      "yvgude/lean-ctx"
     ];
   };
 }
